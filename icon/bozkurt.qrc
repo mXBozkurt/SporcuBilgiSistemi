@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="ico">
+    <file>bozkurt1.png</file>
+    <file>bozkurt2.png</file>
+    <file>bozkurt3.png</file>
+  </qresource>
+</RCC>
